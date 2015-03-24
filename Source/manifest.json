@@ -1,8 +1,8 @@
 {
-	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"manifest_version": 3,
+	"name": "BigCloud To DickButt",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces the text 'the cloud' with 'my butt'. Also replaces the text 'big data'	with 'big dick'",
 	"content_scripts": 
 	[
 		{
